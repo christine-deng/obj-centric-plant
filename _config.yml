@@ -1,0 +1,10 @@
+remote_theme: marella/jekyll-theme-documentation
+
+title: Object-Centric 3D Plant Reconstruction
+permalink: pretty
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
